@@ -1,0 +1,80 @@
+
+body
+{
+	color:green;
+	font-family:verdana;
+	font-weight:bolder;
+	background-image:url(body.jpg);
+	font-size:20px;
+
+}
+h1
+{
+	text-align:center;
+	color:green;
+	text-decoration:overline underline;
+	font-size:150%;
+}
+h2
+{
+	text-align:center;
+	color:red;
+	text-decoration:overline underline;
+	font-size:1.5 em;
+}
+.cyan
+{
+	text-align:center;
+	color:cyan;
+}
+.blue
+{
+	
+	color:blue;
+	 
+}
+.underline
+{
+	text-decoration:underline;
+}
+.curve
+{
+	font-style:italic;
+}
+p.Red
+{
+	color:red;
+	font-size:15px;
+	line-height:1.5em;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-top:20px;
+	border-color:black;
+	border-width:2px;
+	border-style:dotted;
+	border-top-color:green;
+	border-top-width:5px;
+	
+}
+p.abc
+{
+	color:blue;
+	font-size:15px;
+	padding:20px;
+	border-color:red;
+	border-width:10px;
+	border-style:dashed;
+	margin-left:500px;
+	margin-top:50px;
+}
+.pic
+{
+	background-color:rgb(192,192,192);
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:5px;
+	border-width:5px;
+
+	border-style:double;
+}
